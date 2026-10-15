@@ -1,0 +1,6 @@
+{
+  "name": "CineVerse",
+  "description": "Full-Stack AI-Powered Movie Discovery Platform with cinematic Stitch designs, real TMDB metadata, personalized viewing profiles, and Gemini AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
